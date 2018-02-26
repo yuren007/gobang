@@ -1,0 +1,11 @@
+<!--pages/index/homepage/homepage.wxml-->
+<view>
+  <picker class='homepage'>
+    <picker-view>
+      <button catch:tap="clickBase">人机对战</button>
+    </picker-view>
+    <picker-view>
+      <button catch:tap="clickAdvance">两人对战</button>
+    </picker-view>
+  </picker>
+</view>

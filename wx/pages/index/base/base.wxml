@@ -1,0 +1,2 @@
+<!--pages/index/base/base.wxml-->
+<canvas style="width: 300px; height: 200px;text-align: center" canvas-id="firstCanvas"></canvas>
